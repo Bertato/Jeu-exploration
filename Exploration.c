@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+
 char destination[100];
 
 int main (){
