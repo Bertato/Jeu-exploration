@@ -4,7 +4,6 @@
 
 char destination[100];
 
-<<<<<<< HEAD
 int main (){
 
 
@@ -20,7 +19,6 @@ scanf("%[^\n]",destination);
 	}
 	
 return 0;
-=======
 struct Lieu {
 	char nom[100];
 	char description[100];
@@ -75,5 +73,4 @@ int main (){
 	
 	
 	return 0;
->>>>>>> Gestion-des-lieux
 }
